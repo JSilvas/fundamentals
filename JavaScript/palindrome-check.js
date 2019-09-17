@@ -1,4 +1,4 @@
-console.log(`testing 1, 2, 3!`);
+// Given a string, create a function which checks whether the input is a palindrome.
 
 let string1 = 'notapalindrone';
 let string2 = 'tacocat';
